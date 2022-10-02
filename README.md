@@ -1,4 +1,4 @@
-# CS50 Sorting Visualizer
+# Sorting Visualizer
 
 #### Video Demo:  [demo](https://www.youtube.com/watch?v=iU6eZS_MQC4)
 #### Description: Sorting visualizer implementing Bubblesort, Selectionsort, Insertionsort, Quicksort, and Heapsort.
