@@ -1,6 +1,7 @@
 # Sorting Visualizer
 
 #### Video Demo:  [demo](https://www.youtube.com/watch?v=iU6eZS_MQC4)
+#### Live Site:  [site](https://steady-piroshki-2b8a8c.netlify.app/)
 #### Description: Sorting visualizer implementing Bubblesort, Selectionsort, Insertionsort, Quicksort, and Heapsort.
 
 # File exaplanations
